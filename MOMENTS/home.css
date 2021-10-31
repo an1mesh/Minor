@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.mid{
+   border: 2px solid red;
+   
+}
+.bottom{
+    border: 2px solid green;
+}
